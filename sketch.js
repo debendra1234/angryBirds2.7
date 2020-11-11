@@ -58,7 +58,7 @@ function draw(){
     box5.display();
     log4.display();
     log5.display();
-
+     console.log("i am a bird");
     bird.display();
     platform.display();
 }
